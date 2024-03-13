@@ -1,18 +1,3 @@
 {
-  "todos": [
-    {
-      "id": "VV-Zl4M_NpVDyoPC4yoUG",
-      "creationDate": "2024-03-13T08:17:52.794Z",
-      "updateDate": "2024-03-13T08:25:02.094Z",
-      "completed": true,
-      "todoString": "daeq"
-    },
-    {
-      "id": "lyIdrL3vZITJ734ydnwda",
-      "creationDate": "2024-03-13T08:19:28.360Z",
-      "updateDate": "2024-03-13T08:24:54.243Z",
-      "completed": false,
-      "todoString": "daddadad"
-    }
-  ]
+  "todos": []
 }

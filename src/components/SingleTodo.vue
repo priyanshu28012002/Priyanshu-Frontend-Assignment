@@ -17,10 +17,10 @@
         <p v-if="!editing" @dblclick="startEditing">{{ formatDate(todo.updateDate) }}</p>
       </div>
       <div class="col-1">
-        <button class="" @click="editModeToggle">{{ editing ? '' : 'Edit' }}</button>
+        <button class="btn btn-warning" @click="editModeToggle">{{ editing ? '' : 'Edit' }}</button>
       </div>
       <div class="col-1">
-        <button class="" @click="deleteTodo">Delete</button>
+        <button class="btn btn-danger" @click="deleteTodo">Delete</button>
       </div>
     </div>
   </li>

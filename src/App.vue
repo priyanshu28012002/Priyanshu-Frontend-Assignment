@@ -20,7 +20,7 @@ TodoList
 <style>
 
 body{
-background-color: rgb(66, 66, 66);
-color:aqua;
+background-color: rgb(71, 88, 105);
+color:rgb(239, 209, 209);
 }
 </style>
